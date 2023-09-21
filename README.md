@@ -41,3 +41,5 @@ In this simplified version of chess:
 - Moves only require specifying the starting square and the ending square in standard chess notation (e.g., 'e5 to d4').
 - There are no pawns in the game, so there is no promotion.
 - Castling is impossible in this version.
+- White pieces are capitalized while the black pieces are not.
+- Kings are denoted by 'k' or 'K', Rooks by either 'r' or 'R', Bishops by either 'b' or 'B' and knights are denoted by either 'n' or 'N'. 
