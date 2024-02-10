@@ -1,13 +1,11 @@
 # Author: Muralikrishna Inti
 # GitHub username: Muralikinti
-# Date: 8/17/2023
 # Description: This code implements an abstract simplified version of chess. The starting position is vastly different
 # in this version is vastly to the actual one. There are no checkmates. Instead, to win, the player must get their king
 # to the 8th rank of the board. Checks are not allowed on either king by either player. Moves themselves only require
 # the starting square and ending square and finds out if the move is legal and can be made. The square are represented
 # using standard chess notation where columns are labelled a - h and the rows are labelled 1 - 8. There are no pawns
 # in the game so there is no promotion. The starting position also makes castling impossible.
-import tkinter as tk
 
 
 class ChessVar:
