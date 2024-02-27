@@ -25,3 +25,5 @@ In this example, axios.post is used to send a POST request to the /apply endpoin
 When you send a request to the microservice, it processes the request and sends back a response. This response contains data that your application can use. In the context of your microservice, the response is a JSON object containing the result of the application and the total points.
 
 ## **UML Sequence Diagram**
+
+![image](https://github.com/Muralikinti/custom-chess/assets/123425225/248ed39e-c290-40a2-ae34-e50f0c55d5a9)
